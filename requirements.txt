@@ -1,5 +1,9 @@
+fastapi
+uvicorn
 streamlit
 python-dotenv
 langchain
 langchain-openai
-openai
+langchain-community
+langchain-experimental
+requests
